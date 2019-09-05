@@ -26,4 +26,3 @@ print(type(tail))
 a="python"
 print(a*2)
 
-print(s1)
